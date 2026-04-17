@@ -1,0 +1,2 @@
+# Checkpoint_PCP_PENSAMENTO_COMPUTACIONAL_E_AUTOMA-O_COM_PYTHON
+Segundo checkpoint de python
